@@ -1,12 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9abd3902-760e-4a63-a9d9-4327d11fd9c8" name="Default" comment="green vs grey">
+    <list default="true" id="7f755cc9-e991-4dd8-95fd-8a8533de0537" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/green vs grey/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/green vs grey/.idea/green vs grey (1).iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/green vs grey (1).iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/green vs grey/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/green vs grey/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/green vs grey/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/green vs grey/Arduino temp &amp; humi.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Arduino temp &amp; humi.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/green vs grey/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/green vs grey/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/contact.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/green vs grey/download.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/download.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/green vs grey/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/green vs grey/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/green vs grey/information.html" beforeDir="false" afterPath="$PROJECT_DIR$/information.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/green vs grey/pics/Engflag.png" beforeDir="false" afterPath="$PROJECT_DIR$/pics/Engflag.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/green vs grey/pics/bgflag.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pics/bgflag.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/green vs grey/pics/download.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pics/download.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/green vs grey/pics/download.png" beforeDir="false" afterPath="$PROJECT_DIR$/pics/download.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/green vs grey/pics/dyrvo.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/pics/dyrvo.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/green vs grey/pics/rikardo.jfif" beforeDir="false" afterPath="$PROJECT_DIR$/pics/rikardo.jfif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/green vs grey/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/green vs grey/style1.css" beforeDir="false" afterPath="$PROJECT_DIR$/style1.css" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/.tmp/" />
-    <ignored path="$PROJECT_DIR$/temp/" />
-    <ignored path="$PROJECT_DIR$/tmp/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,48 +37,43 @@
     </execution>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/json object string.js" />
-        <option value="$PROJECT_DIR$/createnewpost.html" />
-        <option value="$PROJECT_DIR$/viewpost.html" />
-        <option value="$PROJECT_DIR$/indexloggged.html" />
+        <option value="$PROJECT_DIR$/index2.html" />
+        <option value="$PROJECT_DIR$/information.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/register.html" />
-        <option value="$PROJECT_DIR$/login.html" />
+        <option value="$PROJECT_DIR$/contact.html" />
+        <option value="$PROJECT_DIR$/contact.php" />
       </list>
     </option>
   </component>
-  <component name="JsBowerSettings">
-    <node-interpreter value="project" />
-    <bower-package value="" />
-    <bower.json value="" />
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="b9d5fbdb-8bd0-4e3a-a076-8b7062187e96" name="run" />
+    </servers>
   </component>
-  <component name="JsFlowSettings">
-    <service-enabled>true</service-enabled>
-    <exe-path />
-    <other-services-enabled>true</other-services-enabled>
-    <auto-save>true</auto-save>
-  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
-    <option name="y" value="-383" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="902" />
+    <option name="height" value="555" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -75,17 +88,6 @@
               <item name="DimovDev.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="DimovDev.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="DimovDev.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DimovDev.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="green vs grey" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DimovDev.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DimovDev.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="green vs grey" type="462c0819:PsiDirectoryNode" />
-              <item name="pics" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -95,20 +97,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="SearchEverywhereHistoryKey" value="zoom&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\IvanDimov\WebstormProjects\SoftUniBlog\scripts" />
-      <recent name="C:\Users\IvanDimov\WebstormProjects\SoftUniBlog\styles" />
-    </key>
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -122,13 +116,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="json object string.js" type="NodeJSConfigurationType" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="$PROJECT_DIR$/../JSCore exercises/json object string.js" working-dir="$PROJECT_DIR$">
+  <component name="RunManager" selected="PHP Built-in Web Server.greenvsgray">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/green vs grey (1)/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="greenvsgray" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="PHP Built-in Web Server.greenvsgray" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.json object string.js" />
+        <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
   </component>
@@ -137,161 +138,105 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9abd3902-760e-4a63-a9d9-4327d11fd9c8" name="Default" comment="" />
-      <created>1521127875187</created>
+      <changelist id="7f755cc9-e991-4dd8-95fd-8a8533de0537" name="Default Changelist" comment="" />
+      <created>1560519061775</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1521127875187</updated>
-      <workItem from="1521127876358" duration="3816000" />
-      <workItem from="1521180176556" duration="15521000" />
-      <workItem from="1521209990462" duration="93000" />
-      <workItem from="1521285772762" duration="4390000" />
-      <workItem from="1560637719373" duration="249000" />
+      <updated>1560519061775</updated>
+      <workItem from="1560519063004" duration="13901000" />
     </task>
-    <task id="LOCAL-00001" summary="green vs grey">
-      <created>1560637845970</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1560637845970</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24069000" />
+    <option name="totallyTimeSpent" value="13917000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-383" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09488273" />
-      <window_info id="Structure" order="1" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info active="true" anchor="bottom" id="Messages" visible="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32919955" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990981" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32946146" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.09488273" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Database Changes" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="12" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="green vs grey" />
-    <option name="LAST_COMMIT_MESSAGE" value="green vs grey" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <default-breakpoints>
-        <breakpoint enabled="true" type="javascript-exception">
-          <properties />
-        </breakpoint>
-      </default-breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../JSCore exercises/json object string.js" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="57" column="77" selection-start-line="57" selection-start-column="77" selection-end-line="57" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/indexloggged.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="43" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/viewpost.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="43" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+        <state relative-caret-position="-561">
+          <caret column="71" selection-start-column="71" selection-end-column="71" />
           <folding>
-            <element signature="e#4189#4196#0" expanded="true" />
-            <element signature="e#4404#4410#0" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#2;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/bootstrap.js">
+    <entry file="file://$PROJECT_DIR$/information.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="391">
+          <caret line="35" column="11" lean-forward="true" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="11" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#ul#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#2;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/createnewpost.html">
+    <entry file="file://$PROJECT_DIR$/index2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="59" selection-start-line="32" selection-start-column="59" selection-end-line="32" selection-end-column="59" />
+        <state relative-caret-position="436">
+          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
           <folding>
-            <element signature="e#3113#3119#0" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#nav#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#ul#0;n#div#0;n#nav#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#1;n#nav#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#2;n#nav#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/register.html">
+    <entry file="file://$PROJECT_DIR$/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="387">
+          <caret line="109" selection-start-line="109" selection-end-line="109" />
           <folding>
-            <element signature="e#3044#3050#0" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#ul#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#2;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/styles/style.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/jquery-3.3.1.js">
+    <entry file="file://$PROJECT_DIR$/contact.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109361">
-          <caret line="6445" column="9" selection-start-line="6445" selection-start-column="9" selection-end-line="6445" selection-end-column="9" />
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="55" column="41" selection-start-line="55" selection-start-column="41" selection-end-line="55" selection-end-column="41" />
-          <folding>
-            <element signature="e#2642#2648#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ScopeChooserConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
