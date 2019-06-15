@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="icon" href="pics/download.jpg" type="image/x-icon"/>
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+</head>
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <a href="index.html"><img src="pics/download.jpg" class="rounded-circle" style="width:40px;height:40px;"></a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+            <ul class="navbar-nav mr-auto"style="padding-left: 10px;">
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Dropdown
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="index.html">Home</a>
+                        <a class="dropdown-item" href="information.html">information</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="contact.html">Contact us</a>
+                    </div>
+                </li>
+            </ul>
+    </div>
+    <a href=""><img src="pics/bgflag.jpg" class="float-right" style="height: 25px;padding-right: 20px;filter: brightness(125%);"></a>
+    <a href=""><img src="pics/Engflag.png" class="float-right" style="height: 25px;"></a>
+</nav>
+<div class="container-fluid">
+  <h3></h3>
+  <p></p>
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+  <link rel="stylesheet" href="style1.css">
+<script>
+	function readValues(){
+		console.log("readValues");
+		
+		$("#status").text("Checking...");
+		
+		$.get("http://192.168.1.9", function(data, status){
+			$("#status").text("Idle");
+			
+			var arrValues = data.split(",");
+			
+			if (arrValues[0] != "nan" && arrValues[1] != "nan") {
+			
+				$("#temp").text(arrValues[1]);
+				$("#hum").text(arrValues[0]);
+			
+			}
+			
+			//alert("Data: " + data + "\nStatus: " + status);
+		});
+	}
+
+	$(function(){
+		//setInterval(readValues, 2000);
+		$("#checkTH").click(function(){
+			readValues();
+		});
+	});
+</script>
+
+
+
+	<div>
+		Temperature: <span id="temp">N/A</span>
+	</div>
+	<div>
+		Humidity: <span id="hum">N/A</span>
+	</div>
+	<div id="status">Idle</div>
+	<button id="checkTH">Check Temperature & Humidity</button>
+</body>
+</html>
