@@ -31,6 +31,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -83,6 +84,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
   </component>
   <component name="RunDashboard">
@@ -170,6 +172,20 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new" />
     <option name="LAST_COMMIT_MESSAGE" value="new" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-3015" y="-163" key="CommitChangelistDialog2" timestamp="1581761019295">
+      <screen x="-3360" y="-180" width="1440" height="860" />
+    </state>
+    <state x="-3015" y="-163" key="CommitChangelistDialog2/0.0.1536.824/-1920.-481.1920.1040/-3360.-180.1440.860@-3360.-180.1440.860" timestamp="1581761019295" />
+    <state x="-3048" y="-16" key="Vcs.Push.Dialog.v2" timestamp="1581761118372">
+      <screen x="-3360" y="-180" width="1440" height="860" />
+    </state>
+    <state x="-3048" y="-16" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1920.-481.1920.1040/-3360.-180.1440.860@-3360.-180.1440.860" timestamp="1581761118372" />
+    <state x="-2831" y="168" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581761094801">
+      <screen x="-3360" y="-180" width="1440" height="860" />
+    </state>
+    <state x="-2831" y="168" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/-1920.-481.1920.1040/-3360.-180.1440.860@-3360.-180.1440.860" timestamp="1581761094801" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
