@@ -1,6 +1,7 @@
 import uniqid from 'uniqid'
 import GitHubIcon from '@material-ui/icons/GitHub'
 import LaunchIcon from '@material-ui/icons/Launch'
+import Tooltip from '@material-ui/core/Tooltip';
 import './ProjectContainer.css'
 
 const ProjectContainer = ({ project }) => (
@@ -28,7 +29,10 @@ const ProjectContainer = ({ project }) => (
         rel="noreferrer"
         target='_blank'
       >
-        <GitHubIcon />
+
+        <Tooltip title="source code" enterDelay={500} leaveDelay={200}>
+          <GitHubIcon />
+        </Tooltip>
       </a>
     )}
 
@@ -40,7 +44,9 @@ const ProjectContainer = ({ project }) => (
         rel="noreferrer"
         target='_blank'
       >
+        <Tooltip title="live preview" enterDelay={500} leaveDelay={200}>
         <LaunchIcon />
+        </Tooltip>
       </a>
     )}
   </span>

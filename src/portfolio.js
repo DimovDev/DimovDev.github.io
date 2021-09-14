@@ -10,7 +10,7 @@ const about = {
     role: 'Full Stack Web Developer',
     description:
         'Web Developer with 3+ years of experience in developing web applications, content management systems, websites, and e-shops. I have good communication and organization skills gained from working as a sales representative, warehouse manager, and other trade positions. Think I have the ability to take important decisions in stressful situations at the workplace and to properly allocate the necessary time to complete a task.',
-    resume: 'https://example.com',
+    resume: 'https://dochub.com/ivandimov423/qd0E4NeKgWmnpPMKJ9LYyj/cv-jobs-pdf',
     social: {
         linkedin: 'https://linkedin.com/in/ivan-dimov-4826b515a',
         github: 'https://github.com/DimovDev',
@@ -50,8 +50,8 @@ const projects = [
         description:
             `"WEB TECH 3D" is a SPA (Single Page Application). The project is a website on our start-up company, which was disintegrated.`,
         stack: ['Bootstrap 4', 'Javascript', 'HTML 5', 'CSS 3'],
-        sourceCode: 'https://github.com/DimovDev/DimovDev.github.io',
-        livePreview: 'https://dimovdev.github.io',
+        sourceCode: 'https://github.com/DimovDev/webtech3d',
+        livePreview: 'https://dimovdev.github.io/webtech3d/',
     },
     {
         name: 'Forum Bundesgerichtshof',

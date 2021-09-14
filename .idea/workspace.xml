@@ -1,123 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f755cc9-e991-4dd8-95fd-8a8533de0537" name="Default Changelist" comment="change canonical href">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" />
+    <list default="true" id="7f755cc9-e991-4dd8-95fd-8a8533de0537" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/animate.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/magnific-popup.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/normalize.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/owl.carousel.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/owl.theme.default.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/responsive.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon/android-icon-144x144.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon/android-icon-192x192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon/android-icon-36x36.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon/android-icon-48x48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon/android-icon-72x72.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon/android-icon-96x96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon/apple-icon-114x114.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon/apple-icon-120x120.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon/apple-icon-144x144.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon/apple-icon-152x152.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon/apple-icon-180x180.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon/apple-icon-57x57.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon/apple-icon-60x60.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon/apple-icon-72x72.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon/apple-icon-76x76.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon/apple-icon-precomposed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon/apple-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon/browserconfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon/favicon-16x16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon/favicon-32x32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon/favicon-96x96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon/ms-icon-144x144.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon/ms-icon-150x150.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon/ms-icon-310x310.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon/ms-icon-70x70.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/from-index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/about/about.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/about/about1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/about/profile-img.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/home/home-.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/home/home-bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/home/home.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logos/Web.Tech.3D.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logos/WebTech3D-cropped.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logos/WebTech3D.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/Web.Tech.3D.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/artship.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/chaika.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/drone.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/eshop.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/small/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/small/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/small/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/small/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/small/5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/small/6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/small/Web.Tech.3D.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/small/artship.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/small/chaika.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/small/drone.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/small/eshop.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/small/talev.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/small/webtech3d.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/talev.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/webtech3d.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/team/Alex.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/team/Ivan.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/team/Joro.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/team/user.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/testimonial/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/testimonial/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/testimonial/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/top.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/contact.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery-3.2.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.magnific-popup.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/owl.carousel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/particles.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/plugins.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/typed.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/validator.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/wow.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mail.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/robots-.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/main.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/About/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/About/About.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ProjectContainer/ProjectContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ProjectContainer/ProjectContainer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/portfolio.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/portfolio.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,7 +24,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="PhpServers">
     <servers>
@@ -251,7 +139,8 @@
       <workItem from="1560519063004" duration="13901000" />
       <workItem from="1581760958101" duration="601000" />
       <workItem from="1631618087408" duration="3091000" />
-      <workItem from="1631621463052" duration="1123000" />
+      <workItem from="1631621463052" duration="3214000" />
+      <workItem from="1631633310607" duration="614000" />
     </task>
     <task id="LOCAL-00001" summary="new">
       <created>1560638350700</created>
@@ -295,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631621888596</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="rebuild app to show favicon">
+      <created>1631623732015</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1631623732015</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -308,6 +204,7 @@
     <MESSAGE value="change canonical href" />
     <MESSAGE value="initial commit" />
     <MESSAGE value="added favicon" />
-    <option name="LAST_COMMIT_MESSAGE" value="added favicon" />
+    <MESSAGE value="rebuild app to show favicon" />
+    <option name="LAST_COMMIT_MESSAGE" value="rebuild app to show favicon" />
   </component>
 </project>
