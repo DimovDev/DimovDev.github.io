@@ -1,6 +1,6 @@
 const header = {
 
-    homepage: 'https://dimovdev.github.io/portfolio',
+    homepage: 'https://dimovdev.github.io/',
     title: 'DimovDev',
 }
 
@@ -15,7 +15,7 @@ const about = {
         linkedin: 'https://linkedin.com/in/ivan-dimov-4826b515a',
         github: 'https://github.com/DimovDev',
         stack_overflow: 'https://stackoverflow.com/users/11071080/ivan-dimov',
-        facebook: 'https://www.facebook.com/ivan.dimov.378',
+        // facebook: 'https://www.facebook.com/ivan.dimov.378',
     },
 }
 
@@ -56,7 +56,7 @@ const projects = [
     {
         name: 'Forum Bundesgerichtshof',
         description:
-            `The project is a CMS (Content management system)."Forum Bundesgerichtshof" is a private, politically and denominational independent website that enables interested citizens to publicly, analyze, comment on and debate all judgments of the German Supreme Court.The project contains an admin panel with CRUD for all features. The CMS has integrated third party API's checking for allowed languages and swearing languages. The project has integrated a web crawler with a Cron job for a daily update of new decisions from the German Supreme Court too`,
+            `The project is a CMS (Content management system). "Forum Bundesgerichtshof" is a private, politically and denominational independent website that enables interested citizens to publicly, analyze, comment on and debate all judgments of the German Supreme Court.The project contains an admin panel with CRUD for all features. The CMS has integrated third party API's checking for allowed languages and swearing languages. The project has integrated a web crawler with a Cron job for a daily update of new decisions from the German Supreme Court too`,
         stack: ['Laravel', 'Blade', 'Bootstrap 4', 'Javascript', 'JQuery', 'AJAX'],
         // sourceCode: 'https://github.com/DimovDev/DimovDev.github.io',
         livePreview: 'https://forum-bundesgerichtshof.de',
@@ -75,8 +75,25 @@ const projects = [
             `Edi Ins is a CMS (Content management system) for an insurance broker company that manages clients, policies, events, and agents.The project contains an admin panel with CRUD for all the features. The CMS has integrated roles and permissions with different access for users.
 `,
         stack: ['Laravel', 'Blade', 'Bootstrap 4', 'Javascript', 'JQuery', 'AJAX'],
-        sourceCode: 'https://github.com/DimovDev/DimovDev.github.io',
+        // sourceCode: 'https://github.com/DimovDev/DimovDev.github.io',
         livePreview: 'https://ins.edirentacar.bg/',
+    },
+    {
+        name: 'Battleship',
+        description:
+            `Implementation a simple game of battleships which allow a single human player to play a one-sided game of battleships against the computer.
+            `,
+        stack: ['Laravel', 'Blade', 'Bootstrap 4', 'Javascript', 'JQuery', 'AJAX'],
+        sourceCode: 'https://github.com/DimovDev/Battleships',
+        livePreview: 'https://dimovdev.ml',
+    },
+    {
+        name: 'Portfolio',
+        description:
+            `My personal portfolio website.`,
+        stack: ['Javascript','React', 'Material UI', 'HTML 5', 'CSS 3'],
+        sourceCode: 'https://github.com/DimovDev/DimovDev.github.io',
+        livePreview: 'https://dimovdev.github.io/',
     },
 ]
 
