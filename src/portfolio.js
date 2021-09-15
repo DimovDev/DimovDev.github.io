@@ -10,7 +10,7 @@ const about = {
     role: 'Full Stack Web Developer',
     description:
         'Web Developer with 3+ years of experience in developing web applications, content management systems, websites, and e-shops. I have good communication and organization skills gained from working as a sales representative, warehouse manager, and other trade positions.  I have the ability to take important decisions in stressful situations at the workplace and to properly allocate the necessary time to complete  tasks.',
-    resume: 'https://dochub.com/ivandimov423/qd0E4NeKgWmnpPMKJ9LYyj/cv-jobs-pdf',
+    resume: 'https://drive.google.com/file/d/1fkwoDeRvkW0oF3e8tTgkHyPlCnLP7lzl/view?usp=sharing',
     social: {
         linkedin: 'https://linkedin.com/in/ivan-dimov-4826b515a',
         github: 'https://github.com/DimovDev',
@@ -40,7 +40,7 @@ const projects = [
     {
         name: 'Hemus Build',
         description:
-            `"Hemus Build" is a SPA (Single Page Application). The project is a simple website of building company`,
+            `"Hemus Build" is a SPA (Single Page Application). The project is a simple website of building company.`,
         stack: ['Bootstrap 4', 'Javascript', 'PHP', 'HTML 5', 'CSS 3'],
         // sourceCode: 'https://github.com',
         livePreview: 'https://hemusbuild.com',

@@ -5,8 +5,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/asset-manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/About/About.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/About/About.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Skills/Skills.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills/Skills.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/portfolio.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/portfolio.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -143,7 +141,7 @@
       <workItem from="1581760958101" duration="601000" />
       <workItem from="1631618087408" duration="3091000" />
       <workItem from="1631621463052" duration="3214000" />
-      <workItem from="1631633310607" duration="12031000" />
+      <workItem from="1631633310607" duration="14417000" />
     </task>
     <task id="LOCAL-00001" summary="new">
       <created>1560638350700</created>
@@ -215,11 +213,29 @@
       <option name="project" value="LOCAL" />
       <updated>1631653781196</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="added some visual changes">
+      <created>1631692256993</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1631692256993</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new" />
@@ -232,6 +248,7 @@
     <MESSAGE value="added resume url" />
     <MESSAGE value="rebuild app to view changes" />
     <MESSAGE value="added new project, change favicon," />
-    <option name="LAST_COMMIT_MESSAGE" value="added new project, change favicon," />
+    <MESSAGE value="added some visual changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="added some visual changes" />
   </component>
 </project>
