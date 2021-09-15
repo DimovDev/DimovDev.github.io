@@ -3,25 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="7f755cc9-e991-4dd8-95fd-8a8533de0537" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-chrome-192x192.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/android-chrome-192x192.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-chrome-512x512.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/android-chrome-512x512.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/apple-touch-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/apple-touch-icon.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/asset-manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/favicon-16x16.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/favicon-16x16.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/favicon-32x32.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/favicon-32x32.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/build/favicon.ico" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/css/main.d1550b65.chunk.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/css/main.d1550b65.chunk.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/android-chrome-192x192.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/android-chrome-192x192.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/android-chrome-512x512.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/android-chrome-512x512.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/apple-touch-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/apple-touch-icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon-16x16.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon-16x16.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon-32x32.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon-32x32.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/About/About.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/About/About.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/About/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/About/About.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Skills/Skills.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills/Skills.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/portfolio.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/portfolio.js" afterDir="false" />
     </list>
@@ -159,7 +143,7 @@
       <workItem from="1581760958101" duration="601000" />
       <workItem from="1631618087408" duration="3091000" />
       <workItem from="1631621463052" duration="3214000" />
-      <workItem from="1631633310607" duration="7256000" />
+      <workItem from="1631633310607" duration="12031000" />
     </task>
     <task id="LOCAL-00001" summary="new">
       <created>1560638350700</created>
@@ -224,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631634343882</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="added new project, change favicon,">
+      <created>1631653781196</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1631653781196</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -240,6 +231,7 @@
     <MESSAGE value="rebuild app to show favicon" />
     <MESSAGE value="added resume url" />
     <MESSAGE value="rebuild app to view changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="rebuild app to view changes" />
+    <MESSAGE value="added new project, change favicon," />
+    <option name="LAST_COMMIT_MESSAGE" value="added new project, change favicon," />
   </component>
 </project>

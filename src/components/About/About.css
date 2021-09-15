@@ -37,7 +37,7 @@
     margin-top: 2em;
   }
   .about__contact {
-    /*max-width: 360px !important;*/
+
     display:flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
@@ -45,7 +45,8 @@
 
   }
   .resume{
-    justify-content: center;
+    display:flex;
+    margin:1.5rem auto !important;
     align-items: center;
   }
 

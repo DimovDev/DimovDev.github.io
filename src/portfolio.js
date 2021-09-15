@@ -9,7 +9,7 @@ const about = {
     name: 'Ivan Dimov',
     role: 'Full Stack Web Developer',
     description:
-        'Web Developer with 3+ years of experience in developing web applications, content management systems, websites, and e-shops. I have good communication and organization skills gained from working as a sales representative, warehouse manager, and other trade positions. Think I have the ability to take important decisions in stressful situations at the workplace and to properly allocate the necessary time to complete a task.',
+        'Web Developer with 3+ years of experience in developing web applications, content management systems, websites, and e-shops. I have good communication and organization skills gained from working as a sales representative, warehouse manager, and other trade positions.  I have the ability to take important decisions in stressful situations at the workplace and to properly allocate the necessary time to complete  tasks.',
     resume: 'https://dochub.com/ivandimov423/qd0E4NeKgWmnpPMKJ9LYyj/cv-jobs-pdf',
     social: {
         linkedin: 'https://linkedin.com/in/ivan-dimov-4826b515a',
@@ -56,7 +56,7 @@ const projects = [
     {
         name: 'Forum Bundesgerichtshof',
         description:
-            `The project is a CMS (Content management system). "Forum Bundesgerichtshof" is a private, politically and denominational independent website that enables interested citizens to publicly, analyze, comment on and debate all judgments of the German Supreme Court.The project contains an admin panel with CRUD for all features. The CMS has integrated third party API's checking for allowed languages and swearing languages. The project has integrated a web crawler with a Cron job for a daily update of new decisions from the German Supreme Court too`,
+            `The project is a CMS (Content management system). "Forum Bundesgerichtshof" is a private, politically and denominational independent website that enables interested citizens to publicly, analyze, comment on and debate all judgments of the German Supreme Court.The project contains an admin panel with CRUD for all features. The CMS has integrated third party API's checking for allowed languages and swearing languages. The project has integrated a web crawler with a Cron job for a daily update of new decisions from the German Supreme Court too.`,
         stack: ['Laravel', 'Blade', 'Bootstrap 4', 'Javascript', 'JQuery', 'AJAX'],
         // sourceCode: 'https://github.com/DimovDev/DimovDev.github.io',
         livePreview: 'https://forum-bundesgerichtshof.de',
@@ -64,7 +64,7 @@ const projects = [
     {
         name: 'Forum Supreme Court',
         description:
-            `The project is a CMS (Content management system). "Forum Supreme Court" is a private, politically and denominational independent website that enables interested citizens to publicly, analyze, comment on and debate all judgments of the German Supreme Court.The project contains an admin panel with CRUD for all features. The CMS has integrated third party API's checking for allowed languages and swearing languages. The project has integrated a web crawler with a Cron job for a daily update of new decisions from the US Supreme Court too`,
+            `The project is a CMS (Content management system). "Forum Supreme Court" is a private, politically and denominational independent website that enables interested citizens to publicly, analyze, comment on and debate all judgments of the US Supreme Court.The project contains an admin panel with CRUD for all features. The CMS has integrated third party API's checking for allowed languages and swearing languages. The project has integrated a web crawler with a Cron job for a daily update of new decisions from the US Supreme Court too.`,
         stack: ['Laravel', 'Blade', 'Bootstrap 4', 'Javascript', 'JQuery', 'AJAX'],
         // sourceCode: 'https://github.com/DimovDev/DimovDev.github.io',
         livePreview: 'https://forum-bundesgerichtshof.de',
@@ -82,6 +82,7 @@ const projects = [
         name: 'Battleship',
         description:
             `Implementation a simple game of battleships which allow a single human player to play a one-sided game of battleships against the computer.
+  To start game press the “Play button”. There you will see a screen with squares.Press on any of the squares to find ships in the water. After every shot there will be information whether you missed or hit a ship. If you have difficulties guessing the position of the ships or just want to test it faster you can press the “Show” button, which will display the position of the ships in a grid. 
             `,
         stack: ['Laravel', 'Blade', 'Bootstrap 4', 'Javascript', 'JQuery', 'AJAX'],
         sourceCode: 'https://github.com/DimovDev/Battleships',
@@ -90,8 +91,8 @@ const projects = [
     {
         name: 'Portfolio',
         description:
-            `My personal portfolio website.`,
-        stack: ['Javascript','React', 'Material UI', 'HTML 5', 'CSS 3'],
+            `My personal portfolio website. The site contains information about my client projects who I made as a freelancer, programmer skills, and  my resume.`,
+        stack: ['Javascript', 'React', 'Material UI', 'HTML 5', 'CSS 3' ,'GH-Pages'],
         sourceCode: 'https://github.com/DimovDev/DimovDev.github.io',
         livePreview: 'https://dimovdev.github.io/',
     },
@@ -115,13 +116,14 @@ const skills = [
     'C-panel',
     'Docker',
     'Apache',
-    'Nginx'
-
+    'Nginx',
+    'MySQL',
+    'Maria DB'
 ]
 
 const contact = {
 
-    email: 'dimovdev@mail.com',
+    email: 'dimovdev@gmail.com',
 }
 
 export {header, about, projects, skills, contact}
