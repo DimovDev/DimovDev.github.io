@@ -141,7 +141,7 @@
       <workItem from="1581760958101" duration="601000" />
       <workItem from="1631618087408" duration="3091000" />
       <workItem from="1631621463052" duration="3214000" />
-      <workItem from="1631633310607" duration="14417000" />
+      <workItem from="1631633310607" duration="16648000" />
     </task>
     <task id="LOCAL-00001" summary="new">
       <created>1560638350700</created>
@@ -220,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631692256993</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="change resume file  permission">
+      <created>1631704355393</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1631704355393</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,6 +256,7 @@
     <MESSAGE value="rebuild app to view changes" />
     <MESSAGE value="added new project, change favicon," />
     <MESSAGE value="added some visual changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="added some visual changes" />
+    <MESSAGE value="change resume file  permission" />
+    <option name="LAST_COMMIT_MESSAGE" value="change resume file  permission" />
   </component>
 </project>
