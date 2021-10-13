@@ -2,11 +2,14 @@ import GitHubIcon from '@material-ui/icons/GitHub'
 import LinkedInIcon from '@material-ui/icons/LinkedIn'
 import {about} from '../../portfolio'
 import './About.css'
+import Particles from "../Particless/Particless";
 
 const About = () => {
     const {name, role, description, resume, social} = about
 
-    return (
+    return (<>
+
+
         <div className='about center'>
             {name && (
                 <h1>
@@ -66,7 +69,7 @@ const About = () => {
                 )}
                 </div>
                 </div>
-                )
+    </>   )
             }
 
                 export default About
