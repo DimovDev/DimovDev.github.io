@@ -86,7 +86,7 @@ const projects = [
             `,
         stack: ['Laravel', 'Blade', 'Bootstrap 4', 'Javascript', 'JQuery', 'AJAX'],
         sourceCode: 'https://github.com/DimovDev/Battleships',
-        livePreview: 'https://dimovdev.ml',
+        livePreview: 'https://dimovdev.edirentacar.bg/',
     },
     {
         name: 'Portfolio',
