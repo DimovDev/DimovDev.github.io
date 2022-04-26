@@ -19,13 +19,10 @@ const App = () => {
             <div id='top' className={`${themeName} app`}>
                 <Header/>
                 <main>
-
-                    <Particles/>
                     <About/>
                     <Projects/>
                     <Skills/>
                     <Contact/>
-
                 </main>
 
                 <ScrollToTop/>

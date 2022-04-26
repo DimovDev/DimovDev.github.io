@@ -1,8 +1,7 @@
-import GitHubIcon from '@material-ui/icons/GitHub'
-import LinkedInIcon from '@material-ui/icons/LinkedIn'
+
 import {about} from '../../portfolio'
 import './About.css'
-import Particles from "../Particless/Particless";
+
 
 const About = () => {
     const {name, role, description, resume, social} = about
@@ -10,12 +9,14 @@ const About = () => {
     return (<>
 
 
-        <div className='about center'>
+        <div className='about center container'>
+
             {name && (
                 <h1>
-                    Hi, I am <span className='about__name'>{name}.</span>
+                    Hi, I am <div className='about__name'>{name}.</div>
                 </h1>
             )}
+
 
             {role && <h2 className='about__role'>A {role}.</h2>}
             <p className='about__desc'>{description && description}</p>
