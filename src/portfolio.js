@@ -66,8 +66,7 @@ const projects = [
         description:
             `The project is a CMS (Content management system). "Forum Supreme Court" is a private, politically and denominational independent website that enables interested citizens to publicly, analyze, comment on and debate all judgments of the US Supreme Court.The project contains an admin panel with CRUD for all features. The CMS has integrated third party API's checking for allowed languages and swearing languages. The project has integrated a web crawler with a Cron job for a daily update of new decisions from the US Supreme Court too.`,
         stack: ['Laravel', 'Blade', 'Bootstrap 4', 'Javascript', 'JQuery', 'AJAX'],
-        // sourceCode: 'https://github.com/DimovDev/DimovDev.github.io',
-        livePreview: 'https://forum-bundesgerichtshof.de',
+        livePreview: 'https://forum-supremecourt.us/',
     },
     {
         name: 'Edi Ins',
