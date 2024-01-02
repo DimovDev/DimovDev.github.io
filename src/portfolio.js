@@ -9,7 +9,7 @@ const about = {
     name: 'Ivan Dimov',
     role: 'Full Stack Web Developer',
     description:
-        'Web Developer with 3+ years of experience in developing web applications, content management systems, websites, and e-shops. I have good communication and organization skills gained from working as a sales representative, warehouse manager, and other trade positions.  I have the ability to take important decisions in stressful situations at the workplace and to properly allocate the necessary time to complete  tasks.',
+        'Web Developer with 4+ years of experience in developing web applications, content management systems, websites, and e-shops. I have good communication and organization skills gained from working as a sales representative, warehouse manager, and other trade positions.  I have the ability to take important decisions in stressful situations at the workplace and to properly allocate the necessary time to complete  tasks.',
     resume: 'https://drive.google.com/file/d/1iKqWjpEVZJwMlkvlv5LfDda9gSegoL1X/view?usp=sharing',
     social: {
         linkedin: 'https://linkedin.com/in/ivan-dimov-4826b515a',
